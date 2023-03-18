@@ -1,0 +1,2 @@
+_G.Key = "LLKO_Y1"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/SilenceScripts/NewPsxScript/main/PsxLoader"))()
